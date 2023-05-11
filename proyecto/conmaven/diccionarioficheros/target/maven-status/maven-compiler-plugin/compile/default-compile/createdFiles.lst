@@ -1,0 +1,6 @@
+com/curso/diccionario/impl/Configuracion.class
+module-info.class
+com/curso/diccionario/impl/Utilidades.class
+com/curso/diccionario/impl/DiccionarioDesdeFichero$Sugerencia.class
+com/curso/diccionario/impl/DiccionarioDesdeFichero.class
+com/curso/diccionario/impl/SuministradorDeDiccionariosDesdeFichero.class
