@@ -1,0 +1,9 @@
+[submodule "diccionarioapi"]
+	path = diccionarioapi
+	url = https://github.com/IvanciniGT/formacion-java-9-diccionario
+[submodule "app"]
+	path = app
+	url = https://github.com/IvanciniGT/formacion-java-9-app
+[submodule "diccionarioficheros"]
+	path = diccionarioficheros
+	url = https://github.com/IvanciniGT/formacion-java-9-diccionario-ficheros

@@ -127,7 +127,14 @@ PROYECTO
                     Para que pueda ser utilizada en otros proyectos
 
 
-MODULOS EN JAVA <> MODULOS DE MAVEN <> SUBMODULOS DE GIT
+MODULOS EN JAVA <> MODULOS DE MAVEN <> SUBMODULOS DE GIT <> AGILE <> DEVOPS
 
 ---
 
+Para cada modulo de JAVA tengo mi propio proyecto de MAVEN y mi propio repo GIT
+
+TEngo un proyecto/sistema global que tiene su propio proyecto de maven y su propio repo git
+
+El sistema global       El proyecto maven global            Tiene su repo 
+se compone de           Tiene modulos que son proyectos     Que apunta a repos indepenendientes
+modulos java            independientes

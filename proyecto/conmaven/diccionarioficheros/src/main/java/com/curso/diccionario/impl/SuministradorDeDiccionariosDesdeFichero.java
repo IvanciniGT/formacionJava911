@@ -13,6 +13,9 @@ public class SuministradorDeDiccionariosDesdeFichero implements SuministradorDeD
         if( cacheDeDiccionarios.containsKey(idioma)            ) return true;
         if( Utilidades.existeElFicheroDelDiccionario(idioma)   ) return true;
         return false;
+
+//        return  cacheDeDiccionarios.containsKey(idioma)
+//                || Utilidades.existeElFicheroDelDiccionario(idioma)   );
     }
 
     public Optional<Diccionario> dameDiccionario(String idioma){

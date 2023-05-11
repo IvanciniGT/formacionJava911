@@ -1,0 +1,6 @@
+projectKey=com.curso.diccionario:diccionario-api
+serverUrl=http://localhost:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9000/dashboard?id=com.curso.diccionario%3Adiccionario-api
+ceTaskId=AYgLZpDbDxAOoUO8--ru
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYgLZpDbDxAOoUO8--ru
